@@ -5,8 +5,8 @@ Eu sou Felipe de Souza, estudaente apaixonado por resolver problemas com código
 ## 🌟 Sobre mim:
 - 🎓 Estudante de Ciência da Computação na Una barreiro.
 - 🎓 Formado em Redes de Computadores no Senai Centro de Treinamento da Tecnologia da Informação.
--💻 Apaixonado por programação, redes, cibersegurança, tecnologia e aprendizado contínuo.
--🌱 Atualmente aprendendo lógica de progamação.
+- 💻 Apaixonado por programação, redes, cibersegurança, tecnologia e aprendizado contínuo.
+- 🌱 Atualmente aprendendo lógica de progamação.
 
 ## 📫 Contato:
 - **Email**:  felipe.souza.fernandes03@gmail.com
